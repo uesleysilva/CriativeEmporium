@@ -204,7 +204,7 @@ article .news-resume {
 #contact a {
   text-decoration: none;
   list-style: none;
-  color: #000000;
+  color: #ffffff;
   font-size: 20px;
 }
 aside .wiget-contact {
@@ -317,6 +317,10 @@ footer .widget-title-text {
   nav ul {
     flex-direction: column;
     display: none;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff;
   }
   header {
     height: auto;
