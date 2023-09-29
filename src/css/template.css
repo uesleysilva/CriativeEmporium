@@ -286,6 +286,15 @@ footer .widget-title-text {
   .banner_headline h2 {
     font-size: 17px;
   }
+  .widget-body {
+    display: initial;
+  }
+  .widget-title {
+    margin-top: 100px;
+  }
+  article .news-resume {
+    margin-bottom: 30px;
+  }
   .banner_options {
     height: auto;
     flex-direction: column;
